@@ -1,20 +1,3 @@
-//======================================================================
-//
-// Test program to test the infrared sensors (and motors) of the
-// 4tronix initio robot car. One can run this program within an
-// ssh session.
-//
-// author: Raimund Kirner, University of Hertfordshire
-//         initial version: Oct.2016
-//
-// license: GNU LESSER GENERAL PUBLIC LICENSE
-//          Version 2.1, February 1999
-//          (for details see LICENSE file)
-//
-// Compilation: 
-// gcc -o line_follower -Wall -Werror -lcurses -lwiringPi -lpthread -linitio line_follower.c
-//
-//======================================================================
 
 #include <stdlib.h>
 #include <initio.h>
