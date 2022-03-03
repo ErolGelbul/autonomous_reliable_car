@@ -42,6 +42,7 @@ Linux (depending on the distribution) usually come with gcc and make installed. 
 1. sudo apt-get install make
 2. sudo apt-get install gcc
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
